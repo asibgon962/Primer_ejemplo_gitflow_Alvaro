@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_gitflow_alvaro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asibgon962/Primer_ejemplo_gitflow_Alvaro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asibgon962/Primer_ejemplo_gitflow_Alvaro/issues"
+  },
+  "homepage": "https://github.com/asibgon962/Primer_ejemplo_gitflow_Alvaro#readme",
+  "dependencies": {
+    "mongoose": "^8.19.2"
+  }
+}
